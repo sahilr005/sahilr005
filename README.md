@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I'm Sahil Rakholiya — a passionate Flutter Developer with over 4 years of experience crafting high-performance, scalable, and user-friendly mobile apps.<br><br>🔹 Develop cross-platform apps using Flutter<br><br>🔹 Build robust backends with Node.js and FastAPI<br><br>🔹 Integrate real-time features, secure authentication, and APIs<br><br>🔹 Work on Web3, VPN apps, social media platforms, and analytics tools<br><br>🚀 Projects I'm Proud Of:<br><br>Erebrus – A decentralized VPN app with Google/Wallet login and NFT features<br><br>Twiler – A social media app with stories, chat, audio rooms, and subscriptions<br><br>iPOS Desktop App – A complete retail Point of Sale system with offline-first support<br><br>Jobbershub – A referral-based job platform with Node.js backend
 
